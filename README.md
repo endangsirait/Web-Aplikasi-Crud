@@ -21,7 +21,9 @@ CRUD merupakan singkatan dari Create, Read, Update, dan Delete. Operasi CRUD mer
 
 9. JQuery DataTables (Server-side processing), Membuat tabel yang dinamis menggunakan JQuery DataTables (Server-side processing) untuk menampilkan data dari database dalam jumlah yang sangat besar. Sehingga aplikasi yang memiliki banyak data, akan terasa ringan ketika di load. Tabel sudah dilengkapi dengan dengan fitur paging, sorting, dan searching.
 
-10 AJAX (Asynchronous JavaScript and XML), Membuat aplikasi web interaktif yang dapat melakukan operasi CRUD tanpa reload/refresh halaman menggunakan AJAX (Asynchronous JavaScript and XML)
+10. AJAX (Asynchronous JavaScript and XML), Membuat aplikasi web interaktif yang dapat melakukan operasi CRUD tanpa reload/refresh halaman menggunakan AJAX (Asynchronous JavaScript and XML)
+
+    
 
 ![fotooo sss](https://github.com/user-attachments/assets/8eb97e8f-b32b-4ee6-8019-c4029b311656)
 
