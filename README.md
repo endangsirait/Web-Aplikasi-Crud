@@ -1,5 +1,4 @@
-![fotooo sss](https://github.com/user-attachments/assets/8eb97e8f-b32b-4ee6-8019-c4029b311656)# Web-Aplikasi-Crud
-
+# Web-Aplikasi-Crud
 CRUD merupakan singkatan dari Create, Read, Update, dan Delete. Operasi CRUD merupakan operasi dasar yang harus diketahui oleh setiap programmer karena akan selalu digunakan dalam membangun sebuah sistem.
 
 # Materi yang dapat dipelajari dari aplikasi ini adalah:
@@ -24,8 +23,7 @@ CRUD merupakan singkatan dari Create, Read, Update, dan Delete. Operasi CRUD mer
 
 10 AJAX (Asynchronous JavaScript and XML), Membuat aplikasi web interaktif yang dapat melakukan operasi CRUD tanpa reload/refresh halaman menggunakan AJAX (Asynchronous JavaScript and XML)
 
-![Uploading fotooo sss.jpg…]
-
+![fotooo sss](https://github.com/user-attachments/assets/8eb97e8f-b32b-4ee6-8019-c4029b311656)
 
 
 
