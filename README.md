@@ -1,9 +1,6 @@
 # Web-Aplikasi-Crud
 
 -----
-**Nama        : Endang Sirait**
-
-
-
+Nama        : Endang Sirait
 NIM         : 312310588
 --------
